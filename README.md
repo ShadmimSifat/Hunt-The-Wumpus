@@ -1,0 +1,2 @@
+# Hunt The Wumpus
+ Hunt the Wumpus is a text-based adventure game.In the game, the player moves through a series of connected caves, arranged in a dodecahedron, as they hunt a monster named the Wumpus. The turn-based game has the player trying to avoid fatal bottomless pits  that will move them around the cave system; the goal is to shoot one of their arrows through the caves to kill the Wumpus and win the gold protected by wumpus.
